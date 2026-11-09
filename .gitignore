@@ -1,0 +1,29 @@
+# Claves y secretos: NUNCA al repositorio
+firma/
+keystore.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pk8
+*.pem
+*.der
+*.key
+.env*
+
+# Binarios (se publican en Releases)
+*.apk
+*.aab
+*.idsig
+
+# Android Studio / Gradle
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
