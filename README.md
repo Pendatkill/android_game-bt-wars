@@ -74,7 +74,7 @@ Política completa: [docs/PRIVACIDAD.md](docs/PRIVACIDAD.md).
 2. Ábrelo en el móvil y permite *instalar apps de origen desconocido* solo para esta instalación.
 3. Si tenías una versión anterior, desinstálala antes, porque la firma ha cambiado en la 4.2.
 
-Comprueba la descarga con la huella SHA-256 que se publica en cada release.
+
 
 ## Tecnología
 
